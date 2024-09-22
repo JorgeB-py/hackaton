@@ -1,0 +1,5 @@
+.reflected-navbar {
+    transform: scaleX(-1); /* Refleja el navbar horizontalmente */
+    margin-top: 5px /* Ajusta la distancia entre el navbar y su reflejo */
+  }
+  
